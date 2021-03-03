@@ -1,4 +1,4 @@
-ADVENTURE SPIEL
+ADVENTURE SPIE
 
 Spielprinzip:
 	Man ist eine Figur, mit der man auf einer "Welt" rumlaufen kann,
