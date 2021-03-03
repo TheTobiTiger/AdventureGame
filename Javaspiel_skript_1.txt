@@ -1,0 +1,68 @@
+ADVENTURE SPIEL
+
+Spielprinzip:
+	Man ist eine Figur, mit der man auf einer "Welt" rumlaufen kann,
+	in der man Gegenstände (Rüstung, Tränke usw.) finden, oder mit 
+	anderen Figuren (NPCs) kämpfen kann
+
+	Eigenschaften (AG, HP usw.) lässt sich in Punkten verbessern d.h
+	AG verbssern = Schwert mit 3/5 Punkten
+	wenn man 5 Punkte in einem Gegenstand hat, verbessert sich der 
+	gesamte Gegenstand:
+	Schwert 5/5 -> Durchschlagsschwert 1/5 
+			oder
+		    -> Dunkeles Schwert 1/5
+	neues Schwert = neue Fähigkeit z.B. Durchschlagsschwert erhöht
+	Durchschlagskraft um 10Prozent
+	
+
+Ziel: 
+	einen Boss besiegen (?)
+	gibt kein Ziel (?)
+	alle bestimmte Gegenstände sammeln (?)
+
+- Die Figur
+	- die wählt man am Anfang aus 
+	- sie unterscheiden sich in Eigenschaftswerten und Elementen
+		- z.B. Typ Angriffslustig (viel atk, wenig leben)
+		- z.B. Element Stein = in Gebirge stärker und irgend 
+			eine unique passive 
+
+- Die Welt
+	- Die Welt ist besteht aus mehreren "Biomen"
+		-in den verschiedenen Biomen sind bestimmte Elemente
+		Stärker
+		- in den Biomen kann man Gegenstände (Helm, Ring usw.)
+		finden und in jedem Biom gibt es 2-3 Rätsel (z.B. 
+		Matheaufgaben, labyrinth auf zeit o.ä.) 
+		- Man Kann sich in den Biomen kleine "Tiere" (z.B. 
+		im Gebirge gibts Bergziegen u.ä.) anheuern, stats boosten
+		(Bergziege -> +10Prozent dmg)
+		gegenstände aufsammeln o.ä.
+		(man kann höchstens 2 Tiere ausgewählt haben)
+	- Mit einem Gegenstand (Orientierungsstab) kann man sich durch
+	Die Welt navigieren/ teleportieren
+
+- Kämpfen
+	- wenn man auf einen NPC stößt, werden seine Punkte angezeigt, 
+	abernicht wofür sie ausgegeben wurden (damit man nicht kontern
+	kann)
+	- Kämpfen funktioniert grob im Schere-Stein-Papier-Prinzip.
+	man Kann also auswählen ob man
+	angreifen,
+		Fügt dem gegner schaden zu, wenn nicht geblockt wurde
+ 
+	blocken, wehrt den Angriff (nahezu vollständig) ab
+
+	oder Magie
+		(den nächsten Angriffschaden verdoppeln o.ä.) 
+		Ringe und Tiere sind essentiell für Magie 
+		((Wird erst ab bestimmten lvl. freigeschaltet?))
+	 
+	
+
+
+Advanced: Auf der Welt können Ziegel, Holz usw. spawnen, mit denen
+	  sich Häuser o.ä. bauen lassen 
+
+Spieledex: DOrt sind alle tiere oder gegenstände gefangen die man mindestes einmal eingesammelt hat
