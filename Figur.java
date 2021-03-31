@@ -9,7 +9,7 @@ public class Figur {
 	private int def;
 	private int magie;
 	
-	public Figur() { jhiubdb doub9dngb
+	public Figur() { 
 		
 		
 	}
@@ -18,7 +18,7 @@ public class Figur {
 		
 	}
 	
-	public void angreifen() {
+	public void angreifen(int atk) {
 		
 	}
 	
