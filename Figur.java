@@ -11,7 +11,7 @@ public class Figur {
 	
 	public Figur() { 
 		
-		
+		fhfhfhfhf
 	}
 	
 	public void laufen() {
