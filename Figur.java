@@ -9,7 +9,7 @@ public class Figur {
 	private int def;
 	private int magie;
 	
-	public Figur() {
+	public Figur() { jhiubdb doub9dngb
 		
 		
 	}
